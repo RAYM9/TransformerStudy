@@ -1,0 +1,3 @@
+,net_name,train_t-value,train_p-value,train_d-value,validation_t-value,validation_p-value,validation_d-value
+0,TNT,8.000375742679099,1.6747859517226956e-07,1.7889384006170828,1.392163105552343,0.179954933595687,0.31129713397822534
+0,TNT (pretrained),inf,0.0,inf,inf,0.0,inf
